@@ -1,3 +1,3 @@
 # Pilog-Task
 
-[Click here to see my work](https://github.com/SyedAzmathUllahHussaini/Pilog-Task/blob/master/README.md)
+[Click here to see my work](https://syedazmathullahhussaini.github.io/Pilog-Task/)
